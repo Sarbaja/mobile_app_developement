@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Implicit Intent Challange</string>
+    <string name="heading_first">Shopping Cart</string>
+    <string name="add_item">Add Item</string>
+    <string name="items_available">Items Available</string>
+    <string name="item1">Apple</string>
+    <string name="item2">strawberry</string>
+    <string name="item3">mango</string>
+    <string name="item4">orange</string>
+    <string name="item5">cheese</string>
+    <string name="item6">roll</string>
+    <string name="item7">pizza</string>
+    <string name="item8">juice</string>
+    <string name="item9">cornflakes</string>
+    <string name="item10">honey</string>
+    <string name="cart_items">Items in cart are as follows</string>
+    <string name="store_name">Enter store name</string>
+    <string name="location">Open Location</string>
+</resources>

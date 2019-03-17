@@ -3,12 +3,14 @@ package com.example.activitylifecyclecounter;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
+import android.widget.EditText;
 import android.widget.TextView;
 
 public class MainActivity extends AppCompatActivity {
 
     private int count = 0;
     private TextView output;
+    private EditText text;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -25,7 +27,9 @@ public class MainActivity extends AppCompatActivity {
     @Override
     public void onSaveInstanceState(Bundle outState) {
         super.onSaveInstanceState(outState);
-        outState.putString("reply_text", Integer.toString(count));
+
+            outState.putString("reply_text", output.getText().toString());
+
     }
 
 

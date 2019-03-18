@@ -25,7 +25,7 @@ public class MainActivity extends AppCompatActivity {
     private TextView main_text;
     private int count=0;
     private EditText LocationEditText;
-    
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

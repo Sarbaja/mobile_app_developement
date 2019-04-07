@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">NavChallange</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Sarbaja Adhikari</string>
+    <string name="nav_header_subtitle">adhikari.sarbaja@gmail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="chose_camera">You choose Camera Import.</string>
+    <string name="chose_gallery">You choose the Gallery.</string>
+    <string name="chose_slideshow">You choose the Slideshow.</string>
+    <string name="chose_tools">You choose Tools.</string>
+    <string name="chose_share">You choose Share.</string>
+    <string name="chose_send">You choose Send.</string>
+    <string name="chose_about">You choose About.</string>
+</resources>
